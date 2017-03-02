@@ -1,24 +1,26 @@
-# Whack a Mole Game
+# Whack a Pol(itician) Game
 version 0.0.0, March 1, 2017
 by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
 ## Description
-  A game of wack-a-mole using JavaScript by following tutorial at [JavaScript30](https://github.com/wesbos/JavaScript30)
+Modifying the whack-a-mole game to be more current...
 
 ### Technologies Used
 JavaScript
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/JS30-Day30-WhackAMole/)
+* [View on Github Pages](https://karenfreemansmith.github.io/Whack-a-Pol/)
 
 ## Support & Contact
 For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
 ## Specifications
-* Hit as many moles as you can in 10 seconds
+* Take out your frustrations on the politician of your choice
+* Score points for your team
 
 ## Known Issues
-* 
+* The politicians are not as random as I'd like
+* And maybe more variety would be nice too
 
 ## Legal
 *Licensed under the GNU General Public License v3.0*
